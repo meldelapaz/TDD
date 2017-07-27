@@ -22,6 +22,7 @@ For our student class from the warm-up - `pseudocode` how you would write tests 
   * How would we verify the public properties?
     - property_exists
   * How would we verify the private properties?
+  
   * Can we verify that the `__construct` function takes required arguments?
     - need_params
 
